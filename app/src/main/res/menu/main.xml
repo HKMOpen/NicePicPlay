@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication2.app.MainActivity" >
+
+    <item
+        android:title="Background2Foreground"
+        android:id="@+id/setting_Background2Foreground"
+        />
+
+    <item android:id="@+id/setting_FlipPage"
+        android:title="FlipPage" />
+
+    <item android:id="@+id/setting_Accordion"
+        android:title="Accordion" />
+
+    <item android:id="@+id/setting_CubeIn"
+        android:title="CubeIn" />
+
+    <item android:id="@+id/setting_Default"
+        android:title="Default" />
+
+    <item android:id="@+id/setting_DepthPage"
+        android:title="DepthPage" />
+
+    <item android:id="@+id/setting_Fade"
+        android:title="Fade" />
+
+    <item android:id="@+id/setting_FlipHorizontal"
+        android:title="FlipHorizontal" />
+
+    <item android:id="@+id/setting_Foreground2Background"
+        android:title="Foreground2Background" />
+
+    <item android:id="@+id/setting_RotateDown"
+        android:title="RotateDown" />
+
+    <item android:id="@+id/setting_RotateUp"
+        android:title="RotateUp" />
+
+    <item android:id="@+id/setting_Stack"
+        android:title="Stack" />
+    <item android:id="@+id/setting_ZoomOut"
+        android:title="ZoomOut" />
+
+    <item android:id="@+id/setting_ZoomOutSlide"
+        android:title="ZoomOutSlide" />
+
+</menu>
