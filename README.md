@@ -1,0 +1,4 @@
+NicePicPlay
+===========
+
+from daimajia/AndroidImageSlider
